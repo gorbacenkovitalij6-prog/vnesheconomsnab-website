@@ -43,6 +43,7 @@
 
 ## Текущий статус
 **Версия 73** - Обновлен номер телефона на +7 (495) 132-60-98 ✅
+**GitHub:** Код успешно загружен в репозиторий github.com/gorbacenkovitalij6-prog/vnesheconomsnab-website ✅
 
 ### Все функции реализованы:
 - ✅ Полностью функциональный сайт с 7 страницами (Home, Services, Process, Gallery, About, FAQ, Contact)
